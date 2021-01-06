@@ -1,16 +1,13 @@
-### Hi there 👋
+# Dec Burns // Software Engineer
 
-<!--
-**dec1992/dec1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### General Assembly Student on their Sortware Engineer Immersive program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My flair for problem solving and fascination for technology led me to begin self-teaching software development. I discovered a passion for programming while working on an ecommerce website, before expanding my knowledge with books and online resources. 
+
+I made the decision to fast-track my learning at General Assembly with a full-stack immersion into JavaScript, Node.js, PostgreSQL, MongoDB, Python with Flask and an overall focus on a MERN stack. I’m now looking to progress my career in the tech industry as a junior developer.
+
+```
+Take a look at some of my projects below!
+```
+
