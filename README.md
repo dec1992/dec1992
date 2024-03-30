@@ -1,11 +1,9 @@
 # Dec Burns // Software Engineer
 
+My flair for problem solving and fascination for technology led me to begin self-teaching software development. I discovered a passion for programming while working on my own ecommerce startup, before making the decision to fast-track my learning at General Assembly with a full-stack immersive bootcamp. 
 
-### General Assembly Student on their Sortware Engineer Immersive program.
 
-My flair for problem solving and fascination for technology led me to begin self-teaching software development. I discovered a passion for programming while working on an ecommerce website, before expanding my knowledge with books and online resources. 
-
-I made the decision to fast-track my learning at General Assembly with a full-stack immersion into JavaScript, Node.js, PostgreSQL, MongoDB, Python with Flask and an overall focus on a MERN stack. I’m now looking to progress my career in the tech industry as a junior developer.
+I have been continuing my development through various roles in fast-paced startups with increasing seniority and responsibility, typically working as part of a team in an agile environment. I am consistently learning new skills and technologies working on projects for various clients, most recently in my current role as a senior developer at Moropo. I specialise in using technologies such as Typescript, React, React Native, Expo, MobX, Node/Deno, PostgreSQL, and Supabase - among others.
 
 ```
 Take a look at some of my projects below!
